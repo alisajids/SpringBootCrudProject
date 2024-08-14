@@ -1,4 +1,4 @@
-package com.util;
+package util;
 
 import java.io.InputStream;
 import java.nio.charset.Charset;
