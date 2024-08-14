@@ -1,4 +1,4 @@
-package com.config;
+package config;
 
 @Configuration
 public class CorsConfig implements WebMvcConfigurer {
